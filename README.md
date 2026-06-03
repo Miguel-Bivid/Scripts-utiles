@@ -14,3 +14,5 @@ Creditos:
 - script dirty-frag: https://github.com/haydenjames/dirty-frag-check
 
 - script copy-fail: https://github.com/samanzamani/copy-fail-checker
+
+- script dirty-frag2: https://github.com/liamromanis101/DirtyFrag-Detector
